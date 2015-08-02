@@ -1,0 +1,35 @@
+.newRow {
+    background-color: #0086b3;
+}
+
+.jumbotron {
+}
+
+.jumbotron h1 {
+    text-align: center;
+}
+
+.firstRow {
+    background-image: url("https://pbs.twimg.com/media/CKYufedWUAAdhLN.png");
+    height: 600px;
+
+}
+
+#leftArrow {
+    float:left;
+    height:100px;
+    width:100px;
+}
+
+#rightArrow{
+    float: right;
+    width:100px;
+    height:100px;
+}
+
+.newStudent {
+    display: none;
+}
+.activeStudent{
+    display:block;
+}
